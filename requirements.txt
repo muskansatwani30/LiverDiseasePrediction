@@ -2,6 +2,7 @@
 pip==22.2.2
 absl-py==1.0.0
 anaconda-project
+anaconda-client
 altair==4.2.0
 anaconda-client 
 anaconda-navigator==2.1.1
