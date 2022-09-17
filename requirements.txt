@@ -6,6 +6,7 @@ anaconda-client
 altair==4.2.0
 anaconda-client 
 anaconda-navigator==2.1.1
+anyio 
 
 appdirs==1.4.4
 argh==0.26.2
